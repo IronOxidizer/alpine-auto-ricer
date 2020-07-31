@@ -12,7 +12,7 @@ Scripts for automatically ricing clean Alpine Linux installations into my person
 
 ## Desktop Environment Software
 - Distribution: [Alpine Linux](https://alpinelinux.org/)
-- Window Manager: [DWL](https://github.com/djpohly/dwl)
+- Window Manager: [dwl](https://github.com/djpohly/dwl)
 - Terminal Emulator: [Alacritty](https://github.com/alacritty/alacritty) or [wezterm](https://github.com/wez/wezterm)
 - Program Launcher: [bemenu](https://github.com/Cloudef/bemenu)
 - Status Bar: [rust-dwm-status](https://github.com/pierrechevalier83/rust-dwm-status) or [dwm-status](https://github.com/Gerschtli/dwm-status)
