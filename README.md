@@ -22,4 +22,4 @@ Scripts for automatically ricing clean Alpine Linux installations into my person
 - Browser: [BadWolf](https://hacktivis.me/projects/badwolf)
 
 ## Notes
-- Project and keybinds is heavily inspired by [LARBS](https://github.com/LukeSmithxyz/LARBS)
+- Project and keybinds are heavily inspired by [LARBS](https://github.com/LukeSmithxyz/LARBS)
