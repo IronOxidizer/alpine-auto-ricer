@@ -18,3 +18,6 @@ Scripts for automatically ricing clean Alpine Linux installations into my person
 - Status Bar: [rust-dwm-status](https://github.com/pierrechevalier83/rust-dwm-status) or [dwm-status](https://github.com/Gerschtli/dwm-status)
 - File Manager: [nnn](https://github.com/jarun/nnn)
 - Browser: [BadWolf](https://hacktivis.me/projects/badwolf)
+
+## Notes
+- Project and keybinds is heavily inspired by [LARBS](https://github.com/LukeSmithxyz/LARBS)
