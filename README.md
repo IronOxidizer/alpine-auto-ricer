@@ -1,6 +1,8 @@
 # alpine-auto-ricer
 Scripts for automatically ricing clean Alpine Linux installations into my personal desktop environment
 
+This project is on pause until Nvidia has full Wayland support. I will still update [my dotfiles](https://github.com/IronOxidizer/dotfiles) based on [dwm](https://github.com/IronOxidizer/dwm) and [st](https://github.com/IronOxidizer/st) until then.
+
 ## Goals
 - Posix compliant shell
 - Live disk compatible
@@ -20,6 +22,9 @@ Scripts for automatically ricing clean Alpine Linux installations into my person
 - Status Bar: [rust-dwm-status](https://github.com/pierrechevalier83/rust-dwm-status) or [dwm-status](https://github.com/Gerschtli/dwm-status)
 - File Manager: [nnn](https://github.com/jarun/nnn)
 - Browser: [BadWolf](https://hacktivis.me/projects/badwolf)
+- System Information: [paleofetch](https://github.com/IronOxidizer/paleofetch)
+- Audio Control: [PulseAudio](https://github.com/pulseaudio/pulseaudio) and [PulseMixer](https://github.com/GeorgeFilipkin/pulsemixer)
+- Configuration: [dotfiles](https://github.com/IronOxidizer/dotfiles)
 
 ## Notes
 - Project and keybinds are heavily inspired by [LARBS](https://github.com/LukeSmithxyz/LARBS)
