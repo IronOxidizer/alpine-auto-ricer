@@ -1,5 +1,5 @@
 # alpine-auto-ricer
-Scripts for automatically ricing clean Alpine Linux installations into my personal desktop environment
+Scripts for ricing Alpine Linux installations into my personal desktop environment
 
 This project is on pause until Nvidia has full Wayland support. I will still update [my dotfiles](https://github.com/IronOxidizer/dotfiles) based on [dwm](https://github.com/IronOxidizer/dwm) and [st](https://github.com/IronOxidizer/st) until then.
 
