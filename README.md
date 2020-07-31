@@ -28,3 +28,4 @@ This project is on pause until Nvidia has full Wayland support. I will still upd
 
 ## Notes
 - Project and keybinds are heavily inspired by [LARBS](https://github.com/LukeSmithxyz/LARBS)
+- For a guide on how to setup Alpine Linux for live-booting with persistence, check out [my guide](https://github.com/IronOxidizer/alpine-persistent-usb)
