@@ -3,12 +3,14 @@ Scripts for automatically ricing clean Alpine Linux installations into my person
 
 ## Goals
 - Posix compliant shell
+- Live disk compatible
 - Maximum productivity
   - Maximum ergonomics
   - Minimal strain
 - Maximum performance
   - Maximum responsiveness
   - Minimal resource usage
+- Aesthetics
 
 ## Desktop Environment Software
 - Distribution: [Alpine Linux](https://alpinelinux.org/)
