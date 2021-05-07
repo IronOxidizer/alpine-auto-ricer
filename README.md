@@ -17,7 +17,7 @@ This project is on pause until Nvidia has full Wayland support. I will still upd
 ## Desktop Environment Software
 - Distribution: [Alpine Linux](https://alpinelinux.org/)
 - Window Manager: [dwl](https://github.com/djpohly/dwl)
-- Terminal Emulator: [Alacritty](https://github.com/alacritty/alacritty) or [WezTerm](https://github.com/wez/wezterm)
+- Terminal Emulator: [foot](https://codeberg.org/dnkl/foot) or [Alacritty](https://github.com/alacritty/alacritty) or [WezTerm](https://github.com/wez/wezterm)
 - Program Launcher: [bemenu](https://github.com/Cloudef/bemenu)
 - Status Bar: [rust-dwm-status](https://github.com/pierrechevalier83/rust-dwm-status) or [dwm-status](https://github.com/Gerschtli/dwm-status)
 - File Manager: [nnn](https://github.com/jarun/nnn)
