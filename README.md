@@ -26,6 +26,8 @@ This project is on pause until Nvidia has full Wayland support. I will still upd
 - Audio Control: [PulseAudio](https://github.com/pulseaudio/pulseaudio) and [PulseMixer](https://github.com/GeorgeFilipkin/pulsemixer)
 - Configuration: [dotfiles](https://github.com/IronOxidizer/dotfiles)
 - Color Theme: [gruvbox](https://github.com/morhetz/gruvbox)
+- Search Engine: [duckduckgo-lite](https://lite.duckduckgo.com/lite)
+- Text Editor: [neovim](https://neovim.io/)
 
 ## Notes
 - Project and keybinds are heavily inspired by [LARBS](https://github.com/LukeSmithxyz/LARBS)
