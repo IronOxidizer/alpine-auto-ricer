@@ -25,6 +25,7 @@ This project is on pause until Nvidia has full Wayland support. I will still upd
 - System Information: [paleofetch](https://github.com/IronOxidizer/paleofetch)
 - Audio Control: [PulseAudio](https://github.com/pulseaudio/pulseaudio) and [PulseMixer](https://github.com/GeorgeFilipkin/pulsemixer)
 - Configuration: [dotfiles](https://github.com/IronOxidizer/dotfiles)
+- Color Theme: [gruvbox](https://github.com/morhetz/gruvbox)
 
 ## Notes
 - Project and keybinds are heavily inspired by [LARBS](https://github.com/LukeSmithxyz/LARBS)
